@@ -9,7 +9,7 @@ Currently, I’m based in **Canada**, expanding my expertise in **DevOps** and *
 
 ## 🚀 Skills & Expertise  
 - **Programming Languages**:  
-  Java, JavaScript, Python  
+  Java, JavaScript, Python, Rust  
 - **Mobile Development**:  
   Android (Java, Kotlin), React Native  
 - **Backend**:  
