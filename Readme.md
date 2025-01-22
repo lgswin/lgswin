@@ -1,4 +1,4 @@
-# 👋 Hello! I’m Gunsoo Lee  
+# 👋 Hello! I’m Gunsu Lee  
 A passionate **Software Engineer** specializing in developing mobile applications for Android devices.  
 Currently, I’m based in **Canada**, expanding my expertise in **DevOps** and **Cloud Technologies**.
 
