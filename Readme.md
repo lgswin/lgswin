@@ -9,7 +9,7 @@ Currently, I’m based in **Canada**, expanding my expertise in **DevOps** and *
 
 ## 🚀 Skills & Expertise  
 - **Programming Languages**:  
-  Java, JavaScript, Python, Rust  
+  Java, Kotlin, JavaScript, Python, Rust  
 - **Mobile Development**:  
   Android (Java, Kotlin), React Native  
 - **Backend**:  
@@ -17,7 +17,7 @@ Currently, I’m based in **Canada**, expanding my expertise in **DevOps** and *
 - **DevOps Tools**:  
   Docker, Terraform, Jenkins, Git  
 - **Cloud Platforms**:  
-  AWS (Lambda, EC2, S3), Google Cloud  
+  AWS (Lambda, EC2, S3), Google Cloud, Azure Cloud
 - **Databases**:  
   MongoDB, PostgreSQL, MySQL  
 - **Web Development**:  
