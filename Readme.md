@@ -1,10 +1,10 @@
 # 👋 Hello! I’m Gunsu Lee  
-A passionate Software Engineer specializing in developing mobile applications for Android devices.
+A passionate Software Engineer specializing in developing mobile applications for Android devices. <br>
 Currently, I’m based in Canada, with strong interests in DevOps, Cloud Technologies, and AI.
 
-🌱 I enjoy solving complex problems through efficient, scalable, and maintainable code.
-💻 I’m particularly interested in web and mobile application development, DevOps practices, cloud-native architectures, and AI technologies.
-🔗 You can find more about my development interests at lgswin.github.io
+🌱 I enjoy solving complex problems through efficient, scalable, and maintainable code. <br>
+💻 I’m particularly interested in web and mobile application development, DevOps practices, cloud-native architectures, and AI technologies. <br>
+🔗 You can find more about my development interests at https://lgswin.github.io <br>
 
 ---
 
