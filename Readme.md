@@ -9,16 +9,30 @@ Currently, I’m based in **Canada**, expanding my expertise in **DevOps** and *
 
 ## 🚀 Skills & Expertise  
 - **Programming Languages**:  
-  Java, Kotlin, JavaScript, Python, Rust  
+  Java, Kotlin, JavaScript, Python, Rust
+  https://github.com/lgswin/MyRustApp
+  
 - **Mobile Development**:  
-  Android (Java, Kotlin), React Native  
+  Android (Java, Kotlin), React Native
+  https://github.com/lgswin/GiveARide
+  https://github.com/lgswin/DGMarket
+  https://github.com/lgswin/AndroidProject
+  
 - **Backend**:  
-  Node.js, Django, Firebase  
+  Node.js, Django, Firebase
+
 - **DevOps Tools**:  
-  Docker, Terraform, Jenkins, Git  
+  Docker, Terraform, Jenkins, Git
+  https://github.com/lgswin/terraform-ci-cd
+  
 - **Cloud Platforms**:  
   AWS (Lambda, EC2, S3), Google Cloud, Azure Cloud
+  https://github.com/lgswin/HitchHikers
+  
 - **Databases**:  
-  MongoDB, PostgreSQL, MySQL  
+  MongoDB, PostgreSQL, MySQL
+  
 - **Web Development**:  
-  WordPress, HTML, CSS, PHP  
+  WordPress, HTML, CSS, PHP
+  https://www.kwchurch.com
+  
