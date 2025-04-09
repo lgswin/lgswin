@@ -25,6 +25,7 @@ Currently, I’m based in Canada, with strong interests in DevOps, Cloud Technol
 - **DevOps Tools**:  
   Docker, Terraform, Jenkins, Git <br>
   https://github.com/lgswin/terraform-ci-cd <br>
+  https://github.com/lgswin/terraform-finalproject <br>
   
 - **Cloud Platforms**:  
   AWS (Lambda, EC2, S3), Google Cloud, Azure Cloud <br>
