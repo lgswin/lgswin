@@ -38,3 +38,5 @@ Currently, I’m based in Canada, with strong interests in DevOps, Cloud Technol
   WordPress, HTML, CSS, PHP <br>
   https://www.kwchurch.com <br>
   
+- HitchHikers Web app published by AWS Amplify
+  https://main.d1zv049kjdjkfy.amplifyapp.com/
