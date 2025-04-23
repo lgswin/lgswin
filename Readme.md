@@ -5,6 +5,7 @@ Currently, I’m based in Canada, with strong interests in DevOps, Cloud Technol
 🌱 I enjoy solving complex problems through efficient, scalable, and maintainable code. <br>
 💻 I’m particularly interested in web and mobile application development, DevOps practices, cloud-native architectures, and AI technologies. <br>
 🔗 You can find more about my development interests at https://lgswin.github.io <br>
+▶️ Youtube Channel : https://www.youtube.com/channel/UCBm8NOSZQFZj637ldj7uGig <br>
 
 ---
 
@@ -38,5 +39,5 @@ Currently, I’m based in Canada, with strong interests in DevOps, Cloud Technol
   WordPress, HTML, CSS, PHP <br>
   https://www.kwchurch.com <br>
   
-- **HitchHikers Web app published by AWS Amplify**
+- **HitchHikers Web app published by AWS Amplify** <br>
   https://main.d1zv049kjdjkfy.amplifyapp.com/ <b>
